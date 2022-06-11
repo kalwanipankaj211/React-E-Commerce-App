@@ -1,0 +1,25 @@
+.ui.cards>.card>.image>img{
+    padding: 30px;
+    height: 270px !important;
+}
+.ui.cards>.card{
+    height: 430px;
+}
+.ui.cards>.card>.content{
+    padding-top: 40px;
+}
+.ui.cards>.card>.image{
+    background: white;
+}
+.ui.card>.content>.header:not(.ui), .ui.cards>.card>.content>.header:not(.ui){
+    font-size: 1em !important;
+    /* line-height: 0 !important; */
+    text-align: center;
+}
+
+.ui.placeholder.segment .column .button{
+    background-color: pink;
+}
+.ui.grid>.row>.column>img, .ui.grid>.row>img{
+    width: 50%;
+}
